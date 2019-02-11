@@ -1,0 +1,13 @@
+✔ ~/momentum/w1d1-git-it-jtorain21 [master|…1] 
+13:02 $ brew --version
+Homebrew 1.8.0
+Homebrew/homebrew-core (no git repository)
+Homebrew/homebrew-cask (no git repository)
+
+✔ ~/momentum/w1d1-git-it-jtorain21 [master|…1] 
+13:02 $ python3 --version
+Python 3.7.0
+
+✔ ~/momentum/w1d1-git-it-jtorain21 [master|…1] 
+13:03 $ pipenv --version
+pipenv, version 2018.10.13
