@@ -1,8 +1,8 @@
 ✔ ~/momentum/w1d1-git-it-jtorain21 [master|…1] 
-13:02 $ brew --version
-Homebrew 1.8.0
-Homebrew/homebrew-core (no git repository)
-Homebrew/homebrew-cask (no git repository)
+15:10 $ brew --version
+Homebrew 2.0.1
+Homebrew/homebrew-core (git revision e3d1; last commit 2019-02-11)
+Homebrew/homebrew-cask (git revision 9b11f; last commit 2019-02-11)
 
 ✔ ~/momentum/w1d1-git-it-jtorain21 [master|…1] 
 13:02 $ python3 --version
